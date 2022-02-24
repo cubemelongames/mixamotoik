@@ -1,9 +1,13 @@
-﻿using System.Collections;
+﻿/*this asset is not mine
+ * originally made by Jose (Dogzerx) Díaz
+ * unity asset store link https://assetstore.unity.com/packages/tools/animation/inverse-kinematics-1829
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 [ExecuteInEditMode]
-
 public class InverseKinematics : MonoBehaviour {
 
 	public Transform upperArm;
